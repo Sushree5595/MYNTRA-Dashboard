@@ -10,7 +10,7 @@ Category & Product Insights – Identify top-performing categories and products.
 
 Customer Analysis – Understand customer segments and purchase behaviors.
 
-Regional Insights – Breakdown of sales by geography for better targeting.
+Brand Insights – Discover best-performing brands by revenue.
 
 Interactive Filters & Navigation – Dynamic slicers and page navigation for easy exploration.
 
@@ -26,13 +26,27 @@ DAX (Data Analysis Expressions) – Measures and calculated columns
 
 Myntra Dashboard template.pbit → Power BI dashboard template file.
 
-🔑 Key Insights (Sample)
+📷 Dashboard Preview
 
-📌 Identified top-selling categories contributing X% of total sales.
+(Add a screenshot of your dashboard here for better presentation)
 
-📌 Observed a Y% growth trend in revenue over the selected period.
+🔑 Key Insights (from dataset)
 
-📌 Customer segmentation highlighted that Z% of sales came from repeat customers.
+📌 Achieved a total revenue of ₹25.45 Cr across all products.
+
+📌 The top-performing category was Dresses, contributing ₹1.93 Cr in revenue.
+
+📌 The Top 3 Brands by revenue were:
+
+🥇 MANGO – ₹50.3 Lakh
+
+🥈 Roadster – ₹38.4 Lakh
+
+🥉 Puma – ₹34.9 Lakh
+
+📌 The average discount offered across products was 37%.
+
+📌 The dataset covers 46,013 unique products across 3,194 brands.
 
 📌 How to Use
 
@@ -40,6 +54,6 @@ Download the .pbit file from this repository.
 
 Open it in Power BI Desktop.
 
-Load your dataset or connect to the provided data source.
+Load the dataset (data.csv) or connect to the source.
 
 Explore the interactive dashboard.
